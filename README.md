@@ -1,3 +1,3 @@
 # rahman-cv
 
-https://github.com/techrahmanbd/rahman-cv
+https://techrahmanbd.github.io/rahman-cv/
